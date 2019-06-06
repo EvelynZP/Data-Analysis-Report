@@ -29,6 +29,7 @@ __数据来源__：<br>
 
 ## 结果展示<br>
 报告中所有的数据均为FMM数据库中数据，为保护公司安全，所涉及到的数据和图表均以马赛克<br>
+Tips:报告在由word转图片的压缩过程中，出现了部分排版错乱的问题，如果给您带来不好的体验，敬请原谅<br>
 
 ![饭美美用户分析报（2019）05-首页](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-%E9%A6%96%E9%A1%B5.jpg)<br>
 ![饭美美用户分析报（2019）05-目录](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-%E7%9B%AE%E5%BD%95.jpg)
