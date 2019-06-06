@@ -37,3 +37,7 @@ __数据来源__：<br>
 ![饭美美用户分析报（2019）05-4](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-4.jpg)
 ![饭美美用户分析报（2019）05-5](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-5.jpg)
 ![饭美美用户分析报（2019）05-6](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-6.jpg)
+
+### 作者<br>
+#### 谢超
+#### 张平
