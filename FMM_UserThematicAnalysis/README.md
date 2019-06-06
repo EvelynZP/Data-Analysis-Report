@@ -17,12 +17,12 @@ __数据来源__：<br>
 ## 目录
 __一、FMM用户数据概况-活跃用户数__<br>
 __二、探究用户数据变化的原因__<br>
-（一）用户负增长-新增用户、回流用户与流失用户关系失衡<br>
-（二）产品老龄化，新品数量少，更新周期长<br>
-  1 新品数量少，产品老龄化<br>
-  2 新品种类单一<br>
-  3 新品研发周期长，研发数量少，上线率低<br>
-（三）用户生命周期-用户“老龄化”程度重<br>
+__(一) 用户负增长-新增用户、回流用户与流失用户关系失衡__<br>
+__(二)产品老龄化，新品数量少，更新周期长__<br>
+ 1 新品数量少，产品老龄化<br>
+ 2 新品种类单一<br>
+ 3 新品研发周期长，研发数量少，上线率低<br>
+__(三)用户生命周期-用户“老龄化”程度重__<br>
    1 相关概念<br>	
    2 FMM用户生命周期变化<br>
           
@@ -36,4 +36,4 @@ __二、探究用户数据变化的原因__<br>
 ![饭美美用户分析报（2019）05-3](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-3.png)
 ![饭美美用户分析报（2019）05-4](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E5%91%8A%E7%99%BD%EF%BC%882019%EF%BC%8905-4.png)
 ![饭美美用户分析报（2019）05-5](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-5.png)
-![饭美美用户分析报（2019）05-6]()
+![饭美美用户分析报（2019）05-6](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-6.png)
