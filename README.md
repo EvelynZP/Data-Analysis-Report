@@ -6,5 +6,5 @@
 ## 目录
 + [FMM_用户分析专题报告-用户量变化的影响因素](https://github.com/EvelynZP/Data-Analysis-Report/tree/master/FMM_UserThematicAnalysis)
   + 项目描述
-  + 目录
+  + 报告目录
   + 结果展示
