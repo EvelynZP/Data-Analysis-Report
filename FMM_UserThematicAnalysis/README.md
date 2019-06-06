@@ -30,10 +30,10 @@ __(三)用户生命周期-用户“老龄化”程度重__<br>
 ## 结果展示<br>
 报告中所有的数据均为FMM数据库中数据，为保护公司安全，所涉及到的数据和图表均以马赛克<br>
 
-![饭美美用户分析报（2019）05-首页](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-%E9%A6%96%E9%A1%B5.png)<br>
+![饭美美用户分析报（2019）05-首页](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-%E9%A6%96%E9%A1%B5.jpg)<br>
 ![饭美美用户分析报（2019）05-目录](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-%E7%9B%AE%E5%BD%95.png)
 ![饭美美用户分析报（2019）05-2](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-2.png)
 ![饭美美用户分析报（2019）05-3](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-3.png)
 ![饭美美用户分析报（2019）05-4](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E5%91%8A%E7%99%BD%EF%BC%882019%EF%BC%8905-4.png)
 ![饭美美用户分析报（2019）05-5](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-5.png)
-![饭美美用户分析报（2019）05-6](https://github.com/EvelynZP/Data-Analysis-Report/blob/master/FMM_UserThematicAnalysis/%E9%A5%AD%E7%BE%8E%E7%BE%8E%E7%94%A8%E6%88%B7%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A%EF%BC%882019%EF%BC%8905-6.png)
+![饭美美用户分析报（2019）05-6]()
